@@ -1,3 +1,4 @@
 # react-the-complete-guide
 
-for this course https://www.udemy.com/course/react-the-complete-guide-incl-redux
+This repo has the code practice for following [course](https://www.udemy.com/course/react-the-complete-guide-incl-redux)
+by maximalian schwartzmüller
